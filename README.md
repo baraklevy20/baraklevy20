@@ -1,5 +1,5 @@
 ### Hi there! 👋
-![](https://github-view-count.herokuapp.com/view-count.svg)
+![](https://github-view-count.herokuapp.com/view-count)
 ![](https://komarev.com/ghpvc/?username=baraklevy20)
 
 <!--
