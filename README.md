@@ -1,5 +1,5 @@
 ### Hi there! 👋
-
+![](https://github-view-count.herokuapp.com/)
 <!--
 **baraklevy20/baraklevy20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
