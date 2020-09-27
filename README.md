@@ -1,5 +1,6 @@
 ### Hi there! 👋
 ![View count](https://github-view-count.herokuapp.com/counter.png)
+![](https://komarev.com/ghpvc/?username=baraklevy20)
 
 <!--
 **baraklevy20/baraklevy20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
