@@ -1,0 +1,15 @@
+name: forest
+on:
+  schedule: [{ cron: "17 4 * * *" }]   # once a day
+  workflow_dispatch:
+  push: { paths: [.github/workflows/forest.yml] }
+permissions:
+  contents: write
+jobs:
+  grow:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: baraklevy20/commit-forest@v1
+        with:
+          scenery: golden_lake
+          dark_scenery: aurora
