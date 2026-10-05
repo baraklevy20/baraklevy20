@@ -9,7 +9,7 @@ jobs:
   grow:
     runs-on: ubuntu-latest
     steps:
-      - uses: baraklevy20/commit-forest@v1
+      - uses: baraklevy20/commit-forest@main
         with:
           scenery: golden_lake
           dark_scenery: ""
