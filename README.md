@@ -1,7 +1,7 @@
 ### Hi there! 👋 I'm Barak
 
 <a href="https://github.com/baraklevy20/commit-forest">
-  <img alt="My contribution forest for 2026: one tree for each day I contributed" src="https://raw.githubusercontent.com/baraklevy20/baraklevy20/output/forest.png">
+  <img alt="My contribution forest: one tree for each day I contributed in the last year" src="https://raw.githubusercontent.com/baraklevy20/baraklevy20/output/forest.png">
 </a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=baraklevy20&show_icons=true&theme=dracula&locale=en&hide_title=true" alt="baraklevy20" /></p>
