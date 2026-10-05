@@ -13,3 +13,4 @@ jobs:
         with:
           scenery: golden_lake
           dark_scenery: ""
+          gallery: all
