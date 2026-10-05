@@ -12,4 +12,4 @@ jobs:
       - uses: baraklevy20/commit-forest@v1
         with:
           scenery: golden_lake
-          dark_scenery: aurora
+          dark_scenery: ""

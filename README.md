@@ -1,12 +1,8 @@
 ### Hi there! 👋 I'm Barak
 
 <a href="https://github.com/baraklevy20/commit-forest">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baraklevy20/baraklevy20/output/forest-dark.png">
-    <img alt="My contribution forest for 2026: one tree for each day I contributed" src="https://raw.githubusercontent.com/baraklevy20/baraklevy20/output/forest.png">
-  </picture>
+  <img alt="My contribution forest for 2026: one tree for each day I contributed" src="https://raw.githubusercontent.com/baraklevy20/baraklevy20/output/forest.png">
 </a>
-![](https://github-view-count.herokuapp.com/)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=baraklevy20&show_icons=true&theme=dracula&locale=en&hide_title=true" alt="baraklevy20" /></p>
 
