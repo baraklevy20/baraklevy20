@@ -11,6 +11,6 @@ jobs:
     steps:
       - uses: baraklevy20/commit-forest@main
         with:
-          scenery: golden_lake
+          scenery: shuffle
           dark_scenery: ""
           gallery: all
